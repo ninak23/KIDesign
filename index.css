@@ -1,0 +1,2734 @@
+.headerbild-icon,
+.hintergrundfarbe-1 {
+  position: absolute;
+  margin: 0 !important;
+  top: 100px;
+}
+.hintergrundfarbe-1 {
+  width: 1920px;
+  height: 471px;
+  left: 0;
+  background-color: var(--color-gray-200);
+  display: none;
+  z-index: 0;
+}
+.headerbild-icon {
+  width: 1493px;
+  height: 619px;
+  right: 211px;
+  object-fit: cover;
+  z-index: 2;
+}
+.logo-1-icon {
+  height: 71px;
+  width: 194px;
+  position: relative;
+  object-fit: cover;
+}
+.studiengnge {
+  position: relative;
+  font-weight: 600;
+}
+.studiengnge-wrapper {
+  flex: 0.8486;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xl) 0 0;
+  color: var(--color-dimgray-200);
+}
+.studium {
+  position: relative;
+  font-weight: 600;
+}
+.studium-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xl) 0 0;
+}
+.forschung {
+  position: relative;
+  font-weight: 600;
+}
+.forschung-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xl) 0 0;
+}
+.third-mission {
+  position: relative;
+  font-weight: 600;
+  white-space: nowrap;
+}
+.third-mission-wrapper {
+  flex: 0.8427;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xl) 0 0;
+}
+.hochschule {
+  flex: 1;
+  position: relative;
+  font-weight: 600;
+}
+.frame-child,
+.line-wrapper {
+  height: 19px;
+  box-sizing: border-box;
+}
+.frame-child {
+  width: 2px;
+  position: relative;
+  border-right: 2px solid var(--color-silver);
+}
+.line-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs) 0 0;
+}
+.navigation-icon,
+.search-icon {
+  height: 18px;
+  width: 18px;
+  position: relative;
+}
+.navigation-icon {
+  width: 21px;
+}
+.frame-parent1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 13px;
+}
+.frame-div {
+  flex-direction: column;
+  padding: var(--padding-11xs) 0 0;
+}
+.frame-container,
+.frame-div,
+.frame-group {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-group {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 0 14px;
+}
+.frame-container {
+  width: 959px;
+  flex-direction: column;
+  padding: 0 0 var(--padding-sm);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-wrapper,
+.logo-1-parent {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.logo-1-parent {
+  flex: 1;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frame-wrapper {
+  width: 1494px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-8xs);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-raleway);
+}
+.background-header {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  background-color: var(--color-gray-200);
+  z-index: 1;
+}
+.frame-parent {
+  align-self: stretch;
+  height: 738px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 0 186px;
+  box-sizing: border-box;
+  gap: 10px 0;
+  max-width: 100%;
+}
+.container-frame-icon {
+  height: 9px;
+  width: 11px;
+  position: relative;
+  object-fit: contain;
+}
+.master {
+  position: relative;
+  font-weight: 600;
+}
+.button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 12px;
+}
+.master-design-interaktiver {
+  margin: 0;
+  height: 47px;
+  position: relative;
+  font-size: var(--font-size-26xl);
+  font-weight: 700;
+  font-family: var(--font-montserrat);
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.master-button-child {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-gray-300);
+  display: none;
+  z-index: 0;
+}
+.master-of-arts {
+  position: relative;
+  z-index: 1;
+}
+.master-button,
+.semester-button-child {
+  border-radius: var(--br-10xs);
+  background-color: var(--color-gray-300);
+}
+.master-button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-7xs) var(--padding-6xs) var(--padding-7xs)
+    var(--padding-xs);
+  position: relative;
+  white-space: nowrap;
+}
+.semester-button-child {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+  display: none;
+  z-index: 0;
+}
+.semester {
+  position: relative;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-raleway);
+  color: var(--color-white);
+  text-align: left;
+  z-index: 1;
+}
+.semester-button,
+.vollzeit-button-child {
+  position: relative;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-gray-300);
+}
+.semester-button {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xs) var(--padding-8xs) var(--padding-7xs)
+    var(--padding-5xs);
+  box-shadow: 0 3px 4px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+}
+.campus-furtwangen-button:hover,
+.deutsch-button:hover,
+.ects-button:hover,
+.semester-button:hover,
+.vollzeit-button:hover {
+  background-color: var(--color-dimgray-100);
+}
+.vollzeit-button-child {
+  height: 29px;
+  width: 67px;
+  display: none;
+}
+.vollzeit {
+  position: relative;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-raleway);
+  color: var(--color-white);
+  text-align: left;
+  z-index: 1;
+}
+.ects-button-child,
+.vollzeit-button {
+  border-radius: var(--br-10xs);
+  background-color: var(--color-gray-300);
+}
+.vollzeit-button {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xs) var(--padding-4xs) var(--padding-7xs)
+    var(--padding-6xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.ects-button-child {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+  display: none;
+  z-index: 0;
+}
+.ects {
+  position: relative;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-raleway);
+  color: var(--color-white);
+  text-align: left;
+  z-index: 1;
+}
+.campus-furtwangen-button-child,
+.ects-button {
+  border-radius: var(--br-10xs);
+  background-color: var(--color-gray-300);
+}
+.ects-button {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xs) var(--padding-9xs) var(--padding-8xs)
+    var(--padding-5xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  white-space: nowrap;
+}
+.campus-furtwangen-button-child {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+  display: none;
+  z-index: 0;
+}
+.campus-furtwangen {
+  position: relative;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-raleway);
+  color: var(--color-white);
+  text-align: left;
+  z-index: 1;
+}
+.campus-furtwangen-button,
+.deutsch-button-child {
+  border-radius: var(--br-10xs);
+  background-color: var(--color-gray-300);
+}
+.campus-furtwangen-button {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-8xs) var(--padding-7xs) var(--padding-6xs)
+    var(--padding-smi);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  position: relative;
+  white-space: nowrap;
+}
+.deutsch-button-child {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+  display: none;
+  z-index: 0;
+}
+.deutsch {
+  position: relative;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-raleway);
+  color: var(--color-white);
+  text-align: left;
+  z-index: 1;
+}
+.deutsch-button {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-8xs) var(--padding-3xs) var(--padding-7xs)
+    var(--padding-6xs);
+  background-color: var(--color-gray-300);
+  border-radius: var(--br-10xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.study-program-list {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 16px;
+  max-width: 100%;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+}
+.willst-du-die {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 22px;
+  font-weight: 500;
+  color: var(--color-black);
+}
+.button-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 23px 0;
+  max-width: 100%;
+}
+.jetzt-bewerben-button-1-child {
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-seagreen-200);
+  height: 100%;
+  display: none;
+  z-index: 0;
+}
+.jetzt-bewerben {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-raleway);
+  color: var(--color-white);
+  text-align: left;
+  z-index: 1;
+}
+.jetzt-bewerben-button-1 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-sm) var(--padding-xs) var(--padding-base)
+    var(--padding-sm);
+  background-color: var(--color-seagreen-200);
+  border-radius: var(--br-6xl);
+  box-shadow: -1px 4px 5.3px rgba(0, 0, 0, 0.15);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  white-space: nowrap;
+}
+.jetzt-bewerben-button-1:hover,
+.jetzt-bewerben-button-2:hover {
+  background-color: var(--color-mediumseagreen);
+}
+.frame-parent2,
+.ki-webdesign-2-inner {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent2 {
+  width: 839px;
+  flex-direction: column;
+  gap: 39px 0;
+}
+.ki-webdesign-2-inner {
+  width: 1204px;
+  flex-direction: row;
+  padding: 0 var(--padding-xl) var(--padding-50xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 17px;
+  color: var(--color-seagreen-200);
+  font-family: var(--font-raleway);
+}
+.hintergrundfarbe-3 {
+  width: 1920px;
+  height: 536px;
+  position: relative;
+  background-color: var(--color-gray-300);
+  display: none;
+  max-width: 100%;
+  z-index: 0;
+}
+.entdecke-eine-welt,
+.tauche-ein {
+  position: relative;
+  font-weight: 600;
+  z-index: 1;
+}
+.entdecke-eine-welt {
+  margin: 0;
+  align-self: stretch;
+  font-size: var(--font-size-21xl);
+  font-weight: 700;
+  font-family: var(--font-montserrat);
+}
+.tauche-ein-in {
+  height: 80px;
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.footer-frame,
+.submenu-frame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.footer-frame {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-11xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-base);
+}
+.submenu-frame {
+  width: 579px;
+  flex-direction: column;
+  gap: 20px 0;
+}
+.eparrow-up-bold-icon {
+  height: 12px;
+  width: 12px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  z-index: 1;
+}
+.erfahre-mehr {
+  flex: 1;
+  position: relative;
+  font-weight: 600;
+  z-index: 1;
+}
+.v-s-schwenningen-contact {
+  width: 132px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 9px;
+  font-size: var(--font-size-base);
+}
+.image-11-removebg-preview-1-icon {
+  width: 880px;
+  height: 852px;
+  position: absolute;
+  margin: 0 !important;
+  top: -305px;
+  right: 112px;
+  object-fit: cover;
+  z-index: 2;
+}
+.living-quarters-frame {
+  align-self: stretch;
+  background-color: var(--color-gray-300);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-80xl) var(--padding-365xl) var(--padding-110xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: 49px 0;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-raleway);
+}
+.hintergrundfarbe-2 {
+  height: 587px;
+  width: 1920px;
+  position: relative;
+  background-color: var(--color-gray-200);
+  display: none;
+  max-width: 100%;
+}
+.bild-1-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.navigation-menu-bar {
+  height: 297px;
+  width: 505px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+  min-width: 505px;
+  max-width: 100%;
+}
+.deine-reise-durch,
+.inhalte {
+  position: relative;
+  font-weight: 600;
+  z-index: 1;
+}
+.deine-reise-durch {
+  margin: 0;
+  font-size: var(--font-size-21xl);
+  font-weight: 700;
+  font-family: var(--font-montserrat);
+}
+.logo-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px 0;
+  max-width: 100%;
+  font-size: var(--font-size-lg);
+}
+.semester-1-interaktionswelten {
+  margin: 0;
+  font-weight: 600;
+}
+.blank-line,
+.im-fokus-stehen {
+  margin: 0;
+  font-weight: 500;
+}
+.semester-2-virtuelle {
+  margin: 0;
+  font-weight: 600;
+}
+.blank-line1,
+.erlebe-die-inszenierung {
+  margin: 0;
+  font-weight: 500;
+}
+.semester-3-das {
+  margin: 0;
+  font-weight: 600;
+}
+.tauche-ein-in1 {
+  margin: 0;
+  font-weight: 500;
+}
+.semester-1-interaktionswelten-container {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.link-button {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-2xs) var(--padding-8xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.eparrow-up-bold-icon1 {
+  width: 12px;
+  height: 12px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  z-index: 1;
+}
+.image {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+}
+.mehr-details {
+  flex: 1;
+  position: relative;
+  font-weight: 600;
+  z-index: 1;
+}
+.button-wrapper,
+.button1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button1 {
+  flex: 1;
+  gap: 0 12px;
+}
+.button-wrapper {
+  width: 145px;
+  padding: 0 var(--padding-8xs);
+  box-sizing: border-box;
+}
+.container-with-text,
+.header,
+.main-menu-frame {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.main-menu-frame {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 26px 0;
+  min-width: 450px;
+}
+.container-with-text,
+.header {
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.container-with-text {
+  flex: 1;
+  background-color: var(--color-gray-200);
+  align-items: center;
+  padding: var(--padding-45xl) var(--padding-299xl) var(--padding-47xl)
+    var(--padding-300xl);
+  gap: 0 86px;
+}
+.header {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: 0 0 var(--padding-49xl);
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-raleway);
+}
+.projekte {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.projekte-2022 {
+  position: absolute;
+  top: 333px;
+  left: 707px;
+  font-weight: 600;
+  display: inline-block;
+  width: 177px;
+}
+.frame-item {
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+  height: 100%;
+  object-fit: cover;
+  display: none;
+  z-index: 0;
+}
+.header-frame-icon {
+  height: 67.2px;
+  width: 72px;
+  position: relative;
+  object-fit: contain;
+  z-index: 1;
+}
+.rectangle-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-105xl) var(--padding-105xl) var(--padding-107xl);
+  position: relative;
+  background-image: url(./public/video-1@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.projekte-2023 {
+  width: 177px;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+}
+.hintergrundfarbe {
+  position: absolute;
+  top: 0;
+  left: 0.5px;
+  width: 562px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px 0;
+  max-width: 100%;
+}
+.frame-inner {
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+  height: 100%;
+  object-fit: cover;
+  display: none;
+  z-index: 0;
+}
+.frame-icon {
+  height: 67.2px;
+  width: 72px;
+  position: relative;
+  object-fit: contain;
+  z-index: 1;
+}
+.rectangle-group {
+  position: absolute;
+  top: 0;
+  left: 707.5px;
+  width: 576px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-105xl) var(--padding-105xl) var(--padding-107xl);
+  box-sizing: border-box;
+  background-image: url(./public/video-2@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+}
+.hochschule-furtwangen {
+  align-self: stretch;
+  height: 354px;
+  position: relative;
+  max-width: 100%;
+  font-size: var(--font-size-lg);
+  color: var(--color-dimgray);
+  font-family: var(--font-raleway);
+}
+.datenschutzhinweise {
+  width: 1323px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) var(--padding-105xl);
+  box-sizing: border-box;
+  gap: 54px 0;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
+.grenzenlose-kreativitt {
+  position: relative;
+  font-weight: 600;
+  color: var(--color-seagreen-200);
+}
+.warum-gerade-hier {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-21xl);
+  font-weight: 700;
+  font-family: var(--font-montserrat);
+  display: inline-block;
+  max-width: 100%;
+}
+.grenzenlose-kreativitt1 {
+  margin: 0;
+  font-weight: 600;
+}
+.blank-line2,
+.unsere-fakultt-digitale {
+  margin: 0;
+  font-weight: 500;
+}
+.inspirierender-campus-im {
+  margin: 0;
+  font-weight: 600;
+}
+.studiere-in-einer {
+  margin: 0;
+  font-weight: 500;
+}
+.grenzenlose-kreativitt-unser-container {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  max-width: 100%;
+}
+.medieninformatik-frame {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-9xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-base);
+}
+.grenzenlose-kreativitt-parent,
+.ki-webdesign-2-child,
+.medieninformatik-frame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.grenzenlose-kreativitt-parent {
+  width: 851px;
+  flex-direction: column;
+  gap: 27px 0;
+}
+.ki-webdesign-2-child {
+  width: 1322px;
+  flex-direction: row;
+  padding: 0 var(--padding-xl) var(--padding-79xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-raleway);
+}
+.berufliche-perspektiven {
+  position: relative;
+  font-weight: 600;
+  color: var(--color-seagreen-200);
+}
+.fr-wen-ist {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-21xl);
+  font-weight: 700;
+  font-family: var(--font-montserrat);
+  display: inline-block;
+  max-width: 100%;
+}
+.bachelorheldinnen-der-medienw1 {
+  font-weight: 600;
+}
+.bachelorheldinnen-der-medienw {
+  margin: 0;
+}
+.du-hast-deinen {
+  font-weight: 500;
+}
+.du-hast-deinen-bachelor-in-med {
+  margin: 0;
+}
+.blank-line4 {
+  font-weight: 500;
+}
+.blank-line3 {
+  margin: 0;
+}
+.future-leaders1 {
+  font-weight: 600;
+}
+.future-leaders {
+  margin: 0;
+}
+.trumst-du-von {
+  font-weight: 500;
+}
+.trumst-du-von-einer-fhrungsp {
+  margin: 0;
+}
+.blank-line6 {
+  font-weight: 500;
+}
+.blank-line5 {
+  margin: 0;
+}
+.entrepreneurinnen-im-herzen1 {
+  font-weight: 600;
+}
+.entrepreneurinnen-im-herzen {
+  margin: 0;
+}
+.nach-dem-studium {
+  font-weight: 500;
+}
+.nach-dem-studium-selbststndig {
+  margin: 0;
+}
+.blank-line7 {
+  margin: 0;
+  font-size: var(--font-size-sm);
+}
+.bewirb-dich-jetzt {
+  margin: 0;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+}
+.bachelorheldinnen-der-medienw-container {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  max-width: 100%;
+}
+.contact-info-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-9xs) var(--padding-10xs);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-base);
+}
+.jetzt-bewerben-button-2-child {
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-seagreen-200);
+  height: 100%;
+  display: none;
+  z-index: 0;
+}
+.online-bewerbung {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-raleway);
+  color: var(--color-white);
+  text-align: left;
+  z-index: 1;
+}
+.jetzt-bewerben-button-2 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-sm) var(--padding-smi) var(--padding-base);
+  background-color: var(--color-seagreen-200);
+  border-radius: var(--br-6xl);
+  box-shadow: 0 3px 4px rgba(0, 0, 0, 0.2);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.link-frame,
+.useful-links-frame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.useful-links-frame {
+  width: 864px;
+  flex-direction: column;
+  gap: 26px 0;
+}
+.link-frame {
+  width: 1316px;
+  flex-direction: row;
+  padding: 0 var(--padding-xl) var(--padding-79xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-raleway);
+}
+.studienstart,
+.weitere-informationen {
+  position: relative;
+  font-weight: 600;
+}
+.studienstart {
+  margin: 0;
+  width: 316px;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+}
+.regulr-zum-wintersemester {
+  height: 57px;
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  max-width: 100%;
+}
+.media-informatics,
+.studienstart-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.media-informatics {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-10xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-base);
+  font-family: var(--font-raleway);
+}
+.studienstart-parent {
+  width: 482px;
+  flex-direction: column;
+  gap: 19px 0;
+}
+.deine-bewerbung,
+.zeige-uns-wer {
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.deine-bewerbung {
+  margin: 0;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.zeige-uns-wer {
+  flex: 1;
+  line-height: 22px;
+  font-weight: 500;
+}
+.deine-bewerbung-parent,
+.logo-frame1,
+.zeige-uns-wer-du-bist-ein-mo-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.zeige-uns-wer-du-bist-ein-mo-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-10xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-base);
+  font-family: var(--font-raleway);
+}
+.deine-bewerbung-parent,
+.logo-frame1 {
+  flex-direction: column;
+}
+.deine-bewerbung-parent {
+  align-self: stretch;
+  gap: 19px 0;
+}
+.logo-frame1 {
+  width: 522px;
+  gap: 31px 0;
+  min-width: 522px;
+}
+.zulassungsvoraussetzungen {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.einschlgiger-qualifizierter {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  max-width: 100%;
+}
+.einschlgiger-qualifizierter-wrapper {
+  width: 550px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-base);
+  font-family: var(--font-raleway);
+}
+.contact-info-frame1 {
+  width: 613px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 19px 0;
+  min-width: 613px;
+}
+.contact-info-frame1,
+.furtwangen-frame,
+.header-bar,
+.x-twitter {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.header-bar {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
+.furtwangen-frame,
+.x-twitter {
+  justify-content: flex-start;
+}
+.furtwangen-frame {
+  flex: 1;
+  flex-direction: column;
+  gap: 25px 0;
+}
+.x-twitter {
+  width: 1322px;
+  flex-direction: row;
+  padding: 0 var(--padding-29xl) var(--padding-64xl) var(--padding-xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-seagreen-100);
+  font-family: var(--font-raleway);
+}
+.rectangle-div {
+  width: 1924px;
+  height: 573px;
+  position: relative;
+  background-color: var(--color-gray-200);
+  display: none;
+  max-width: 100%;
+}
+.noch-offene-fragen,
+.wir-sind-hier {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  z-index: 1;
+}
+.noch-offene-fragen {
+  width: 217px;
+  font-size: var(--font-size-xl);
+}
+.wir-sind-hier {
+  width: 792px;
+  height: 63px;
+  line-height: 22px;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.kontakthintergrund-1 {
+  width: 410px;
+  height: 244px;
+  position: relative;
+  background-color: var(--color-gray-300);
+  display: none;
+  max-width: 100%;
+}
+.doris-braun,
+.ihre-ansprechpartnerin {
+  position: relative;
+  line-height: 22px;
+  z-index: 2;
+}
+.doris-braun {
+  font-weight: 500;
+}
+.container-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-6xs);
+  font-size: var(--font-size-xl);
+}
+.e-mail-schreiben,
+.telefon-07723-920-2295 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+  z-index: 2;
+}
+.telefon-07723-920-2295-parent {
+  width: 194px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px 0;
+}
+.header-section,
+.kontakthintergrund-2 {
+  background-color: var(--color-gray-300);
+  max-width: 100%;
+}
+.header-section {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-8xl) var(--padding-4xl) var(--padding-55xl);
+  box-sizing: border-box;
+  gap: 21px 0;
+  min-width: 266px;
+  z-index: 1;
+}
+.kontakthintergrund-2 {
+  width: 410px;
+  height: 244px;
+  position: relative;
+  display: none;
+}
+.ihr-ansprechpartner,
+.prof-thomas-krach {
+  position: relative;
+  line-height: 22px;
+  z-index: 2;
+}
+.prof-thomas-krach {
+  flex: 1;
+  font-weight: 500;
+}
+.prof-thomas-krach-wrapper {
+  width: 253px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-6xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-xl);
+}
+.e-mail-schreiben1,
+.telefon-07723-920-22951 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+  z-index: 2;
+}
+.telefon-07723-920-2295-group {
+  width: 194px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px 0;
+}
+.background-color,
+.header-section1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.header-section1 {
+  flex: 0.9615;
+  background-color: var(--color-gray-300);
+  flex-direction: column;
+  padding: var(--padding-8xl) var(--padding-11xl) var(--padding-55xl);
+  box-sizing: border-box;
+  gap: 21px 0;
+  min-width: 266px;
+  z-index: 1;
+}
+.background-color {
+  width: 898px;
+  flex-direction: row;
+  gap: 0 78px;
+}
+.frame-section,
+.frame-wrapper1,
+.rectangle-container {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.rectangle-container {
+  flex: 1;
+  background-color: var(--color-gray-200);
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-72xl) var(--padding-301xl) var(--padding-71xl);
+  gap: 31px 0;
+}
+.frame-section,
+.frame-wrapper1 {
+  flex-direction: row;
+}
+.frame-wrapper1 {
+  width: 1921px;
+  justify-content: flex-start;
+  padding: 0;
+}
+.frame-section {
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-114xl) 0;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-raleway);
+}
+.auf-einen-blick {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+}
+.auf-einen-blick-wrapper {
+  width: 223px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs);
+  box-sizing: border-box;
+}
+.details-zum-studiengan-child {
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-seagreen-100);
+  height: 100%;
+  display: none;
+  z-index: 0;
+}
+.details-zum-studiengang {
+  position: relative;
+  font-weight: 600;
+  z-index: 1;
+}
+.weitere-studien-gaenge {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-3xs);
+}
+.phplus-bold-icon {
+  width: 27px;
+  height: 27px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.details-zum-studiengan {
+  flex: 1;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-seagreen-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-12xl) var(--padding-lg) var(--padding-base);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-68xl);
+  min-width: 270px;
+  max-width: 100%;
+}
+.labore-child {
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-seagreen-200);
+  height: 100%;
+  display: none;
+  z-index: 0;
+}
+.labore1 {
+  position: relative;
+  font-weight: 600;
+  z-index: 1;
+}
+.accessibility-statement-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-smi);
+}
+.phplus-bold-icon1 {
+  width: 27px;
+  height: 27px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.labore,
+.mobile-systeme {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.labore {
+  flex: 1;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-seagreen-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  flex-direction: column;
+  align-items: flex-end;
+  padding: var(--padding-12xl) var(--padding-lg) var(--padding-base);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-68xl);
+  min-width: 270px;
+}
+.mobile-systeme {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 0 20px;
+}
+.faq-child {
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-seagreen-100);
+  height: 100%;
+  display: none;
+  z-index: 0;
+}
+.faq1 {
+  position: relative;
+  font-weight: 600;
+  z-index: 1;
+}
+.faq-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-6xs);
+}
+.phplus-bold-icon2 {
+  width: 27px;
+  height: 27px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.faq,
+.kontakt-child {
+  border-radius: var(--br-4xs);
+  background-color: var(--color-seagreen-100);
+}
+.faq {
+  flex: 1;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-5xl) var(--padding-lg) var(--padding-sm);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-77xl);
+  min-width: 270px;
+  max-width: 100%;
+}
+.kontakt-child {
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+  height: 100%;
+  display: none;
+  z-index: 0;
+}
+.kontakt1 {
+  position: relative;
+  font-weight: 600;
+  z-index: 1;
+}
+.kontakt-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-smi);
+}
+.phplus-bold-icon3 {
+  width: 27px;
+  height: 27px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.kontakt {
+  flex: 1;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-seagreen-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  flex-direction: column;
+  align-items: flex-end;
+  padding: var(--padding-5xl) var(--padding-lg) var(--padding-mini);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-76xl);
+  min-width: 270px;
+}
+.kontakt,
+.mobile-systeme-parent,
+.mobile-systeme1 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.mobile-systeme1 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 0 17px;
+}
+.mobile-systeme-parent {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 18px 0;
+  min-width: 552px;
+}
+.fakultt-child {
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-seagreen-100);
+  height: 100%;
+  display: none;
+  z-index: 0;
+}
+.fakultt-digitale-medien {
+  width: 217px;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.frame-parent-master {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-base);
+}
+.phplus-bold-icon4 {
+  width: 27px;
+  height: 27px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.fakultt {
+  align-self: stretch;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-seagreen-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-12xl) var(--padding-sm) var(--padding-base);
+  position: relative;
+  gap: var(--gap-68xl);
+}
+.onlinebewerbung-2-child {
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-gray-200);
+  height: 100%;
+  display: none;
+  z-index: 0;
+}
+.online-bewerbung1 {
+  position: relative;
+  font-weight: 600;
+  z-index: 1;
+}
+.online-bewerbung-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-smi);
+}
+.phplus-bold-icon5 {
+  width: 27px;
+  height: 27px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.onlinebewerbung-2 {
+  align-self: stretch;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-gray-200);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-5xl) var(--padding-sm) var(--padding-mini);
+  position: relative;
+  gap: var(--gap-76xl);
+}
+.fakultt-parent {
+  width: 415px;
+  flex-direction: column;
+  gap: 18px 0;
+  min-width: 415px;
+}
+.fakultt-parent,
+.frame-parent3,
+.media-informatik {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.media-informatik {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 0 21px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-raleway);
+}
+.frame-parent3 {
+  width: 1326px;
+  flex-direction: column;
+  padding: 0 var(--padding-xl) var(--padding-92xl);
+  box-sizing: border-box;
+  gap: 41px 0;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
+.weitere-studiengnge {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.weitere-studiengnge-wrapper {
+  width: 329px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.medieniinformatik-child {
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-seagreen-200);
+  height: 100%;
+  display: none;
+  z-index: 0;
+}
+.medieninformatik-master {
+  width: 241px;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.mobile-systems-master {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-smi);
+}
+.mingcutearrow-up-line-icon {
+  width: 34px;
+  height: 36px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  z-index: 2;
+}
+.medieniinformatik,
+.mobile-systeme-child {
+  border-radius: var(--br-4xs);
+  background-color: var(--color-seagreen-200);
+}
+.medieniinformatik {
+  flex: 1;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-8xl) var(--padding-mini) var(--padding-mini);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-25xl);
+  min-width: 270px;
+  max-width: 100%;
+}
+.mobile-systeme-child {
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+  height: 100%;
+  display: none;
+  z-index: 0;
+}
+.mobile-systeme-master {
+  width: 241px;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.mobile-systeme-master-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.mingcutearrow-up-line-icon1 {
+  width: 34px;
+  height: 36px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  z-index: 2;
+}
+.mobile-systeme2 {
+  flex: 1;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-seagreen-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-8xl) var(--padding-base) var(--padding-mini)
+    var(--padding-sm);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-25xl);
+  min-width: 270px;
+  max-width: 100%;
+}
+.medieniinformatik-parent {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 0 25px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-raleway);
+}
+.frame-master-program,
+.frame-navbar,
+.medieniinformatik-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-master-program {
+  width: 855px;
+  flex-direction: column;
+  gap: 30px 0;
+}
+.frame-navbar {
+  width: 1326px;
+  flex-direction: row;
+  padding: 0 var(--padding-xl) var(--padding-92xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
+.ntzliche-links {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+}
+.ntzliche-links-wrapper {
+  width: 223px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs);
+  box-sizing: border-box;
+}
+.finanzierung-child {
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-seagreen-200);
+  height: 100%;
+  display: none;
+  z-index: 0;
+}
+.finanzierung2 {
+  position: relative;
+  font-weight: 600;
+  z-index: 1;
+}
+.finanzierung1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-smi);
+}
+.mingcutearrow-up-line-icon2 {
+  width: 34px;
+  height: 36px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  z-index: 2;
+}
+.finanzierung {
+  flex: 1;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-seagreen-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-8xl) var(--padding-mini) var(--padding-2xs);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-29xl);
+  min-width: 311px;
+  max-width: 100%;
+}
+.wohnen-child {
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-seagreen-100);
+  height: 100%;
+  display: none;
+  z-index: 0;
+}
+.wohnen1 {
+  position: relative;
+  font-weight: 600;
+  z-index: 1;
+}
+.wohnen-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-5xs);
+}
+.mingcutearrow-up-line-icon3 {
+  width: 34px;
+  height: 36px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  z-index: 2;
+}
+.studienort-furtwangen-child,
+.wohnen {
+  border-radius: var(--br-4xs);
+  background-color: var(--color-seagreen-100);
+}
+.wohnen {
+  flex: 0.9948;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-8xl) var(--padding-base) var(--padding-2xs);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-29xl);
+  min-width: 311px;
+  max-width: 100%;
+}
+.studienort-furtwangen-child {
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+  height: 100%;
+  display: none;
+  z-index: 0;
+}
+.studienort-furtwangen1 {
+  width: 241px;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.studienort-furtwangen-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs);
+}
+.mingcutearrow-up-line-icon4 {
+  width: 34px;
+  height: 36px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  z-index: 2;
+}
+.studienort-furtwangen {
+  flex: 0.9584;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-seagreen-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-8xl) var(--padding-4xl) var(--padding-2xs);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-29xl);
+  min-width: 311px;
+  max-width: 100%;
+}
+.mingcutearrowupline {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 0 25px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-raleway);
+}
+.frame-additional-links,
+.frame-parent4,
+.mingcutearrowupline {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent4 {
+  flex: 1;
+  flex-direction: column;
+  gap: 30px 0;
+}
+.frame-additional-links {
+  width: 1304px;
+  flex-direction: row;
+  padding: 0 0 var(--padding-114xl) var(--padding-4xs);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
+.jetzt-bewerben-button-3-child {
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-seagreen-100);
+  height: 100%;
+  display: none;
+  z-index: 0;
+}
+.schreib-uns-dein {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-raleway);
+  color: var(--color-white);
+  text-align: left;
+  z-index: 1;
+}
+.jetzt-bewerben-button-3 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-sm) var(--padding-lgi) var(--padding-base)
+    var(--padding-7xl);
+  background-color: var(--color-seagreen-100);
+  border-radius: var(--br-6xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  position: relative;
+  white-space: nowrap;
+}
+.jetzt-bewerben-button-3:hover {
+  background-color: var(--color-mediumseagreen-100);
+}
+.jetzt-bewerben-button-3-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.mdiinstagram-icon {
+  height: 37px;
+  width: 39px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.youtube-icon {
+  height: 32px;
+  width: 52px;
+  position: relative;
+}
+.facebook-icon,
+.x-twitter1 {
+  height: 31px;
+  width: 33px;
+  position: relative;
+}
+.x-twitter1 {
+  height: 30px;
+  width: 31px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.twitter-icon {
+  width: 248px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frame-location-and-contact,
+.frame-parent5 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent5 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 19px 0;
+}
+.frame-location-and-contact {
+  width: 1330px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 var(--padding-13xl) var(--padding-6xl);
+  box-sizing: border-box;
+}
+.furtwangen-location-frame-child {
+  height: 410px;
+  width: 1920px;
+  position: relative;
+  background-color: var(--color-gray-200);
+  display: none;
+  max-width: 100%;
+}
+.anfahrt,
+.furtwangen,
+.robert-gerwig-platz-1-78120 {
+  position: relative;
+  line-height: 30px;
+  z-index: 1;
+}
+.anfahrt,
+.robert-gerwig-platz-1-78120 {
+  display: inline-block;
+  flex-shrink: 0;
+}
+.robert-gerwig-platz-1-78120 {
+  align-self: stretch;
+  height: 83px;
+  white-space: pre-wrap;
+}
+.anfahrt {
+  height: 23px;
+}
+.anfahrt-frame,
+.furtwanging-villingen-schwenni {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.anfahrt-frame {
+  align-self: stretch;
+  gap: 26px 0;
+}
+.furtwanging-villingen-schwenni {
+  width: 166px;
+  gap: 14px 0;
+}
+.jakob-kienzle-strae-17,
+.villingen-schwenningen {
+  position: relative;
+  line-height: 30px;
+  z-index: 1;
+}
+.jakob-kienzle-strae-17 {
+  flex: 1;
+  white-space: pre-wrap;
+}
+.jakob-kienzle-strae-17-78054-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-4xs);
+}
+.anfahrt1 {
+  height: 21px;
+  position: relative;
+  line-height: 30px;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.furtwanging-villingen-schwenni1 {
+  width: 195px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xl) 0 0;
+  box-sizing: border-box;
+  gap: 14px 0;
+}
+.anfahrt2,
+.kronenstrae-16-78532,
+.tuttlingen {
+  position: relative;
+  line-height: 30px;
+  z-index: 1;
+}
+.anfahrt2,
+.kronenstrae-16-78532 {
+  display: inline-block;
+  flex-shrink: 0;
+}
+.kronenstrae-16-78532 {
+  align-self: stretch;
+  height: 83px;
+  white-space: pre-wrap;
+}
+.anfahrt2 {
+  height: 21px;
+}
+.informatik-technik-wirtschaft,
+.kronenstrae-16-78532-tuttling-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.kronenstrae-16-78532-tuttling-parent {
+  align-self: stretch;
+  gap: 28px 0;
+}
+.informatik-technik-wirtschaft {
+  width: 141px;
+  gap: 13px 0;
+}
+.hochschule-furtwangen1 {
+  align-self: stretch;
+  height: 21px;
+  position: relative;
+  line-height: 30px;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.blank-line8,
+.gesundheit,
+.informatik-technik,
+.wirtschaft-medien {
+  margin: 0;
+}
+.informatik-technik-wirtschaft-container {
+  width: 141px;
+  height: 83px;
+  position: relative;
+  line-height: 30px;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.blank-line9,
+.datenschutzhinweise-barrierefr1,
+.impressum {
+  margin: 0;
+}
+.datenschutzhinweise-barrierefr {
+  width: 141px;
+  height: 83px;
+  position: relative;
+  line-height: 28px;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.hochschule-furtwangen-parent {
+  width: 187px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px 0;
+}
+.furtwangen-location-frame {
+  align-self: stretch;
+  background-color: var(--color-gray-200);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: var(--padding-68xl) var(--padding-396xl) var(--padding-68xl)
+    var(--padding-392xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-raleway);
+}
+.hintergrundfarbe-6 {
+  width: 100%;
+  height: 43px;
+  position: absolute;
+  margin: 0 !important;
+  top: 1678px;
+  right: 0;
+  left: 0;
+  background-color: var(--color-gray-200);
+  z-index: 3;
+}
+.ki-webdesign-2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-lgi) 0 0;
+  box-sizing: border-box;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1575px) {
+  .frame-wrapper {
+    max-width: calc(100% - 5px);
+  }
+  .bild-1-icon {
+    align-self: stretch;
+    width: auto;
+  }
+  .navigation-menu-bar {
+    flex: 1;
+  }
+  .container-with-text {
+    flex-wrap: wrap;
+  }
+  .frame-additional-links {
+    max-width: calc(100% - 9px);
+  }
+  .frame-location-and-contact {
+    max-width: calc(100% - 25px);
+  }
+  .furtwangen-location-frame {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1275px) {
+  .frame-group {
+    display: none;
+  }
+  .frame-container {
+    width: 0;
+  }
+  .living-quarters-frame {
+    padding-left: var(--padding-173xl);
+    padding-right: var(--padding-173xl);
+    box-sizing: border-box;
+  }
+  .main-menu-frame,
+  .navigation-menu-bar {
+    min-width: 100%;
+  }
+  .container-with-text {
+    gap: 0 86px;
+    padding-left: var(--padding-140xl);
+    padding-right: var(--padding-140xl);
+    box-sizing: border-box;
+  }
+  .contact-info-frame1,
+  .logo-frame1 {
+    flex: 1;
+  }
+  .header-bar {
+    flex-wrap: wrap;
+  }
+  .x-twitter {
+    padding-right: var(--padding-5xl);
+    box-sizing: border-box;
+  }
+  .header-section,
+  .header-section1 {
+    flex: 1;
+  }
+  .background-color {
+    flex-wrap: wrap;
+    gap: 0 78px;
+  }
+  .rectangle-container {
+    padding-left: var(--padding-141xl);
+    padding-right: var(--padding-141xl);
+    box-sizing: border-box;
+  }
+  .fakultt-parent {
+    flex: 1;
+  }
+  .media-informatik,
+  .mingcutearrowupline {
+    flex-wrap: wrap;
+  }
+  .furtwangen-location-frame {
+    padding-left: var(--padding-186xl);
+    padding-right: var(--padding-188xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 825px) {
+  .frame-parent {
+    padding-bottom: 121px;
+    box-sizing: border-box;
+  }
+  .master-design-interaktiver {
+    font-size: var(--font-size-17xl);
+  }
+  .study-program-list {
+    flex-wrap: wrap;
+  }
+  .entdecke-eine-welt {
+    font-size: var(--font-size-13xl);
+  }
+  .living-quarters-frame {
+    gap: 49px 0;
+    padding: var(--padding-45xl) var(--padding-77xl) var(--padding-65xl);
+    box-sizing: border-box;
+  }
+  .deine-reise-durch {
+    font-size: var(--font-size-13xl);
+  }
+  .container-with-text {
+    gap: 0 86px;
+    padding: var(--padding-23xl) var(--padding-60xl) var(--padding-24xl);
+    box-sizing: border-box;
+  }
+  .header {
+    padding-bottom: var(--padding-25xl);
+    box-sizing: border-box;
+  }
+  .projekte {
+    font-size: var(--font-size-13xl);
+  }
+  .datenschutzhinweise {
+    gap: 54px 0;
+    padding-bottom: var(--padding-62xl);
+    box-sizing: border-box;
+  }
+  .fr-wen-ist,
+  .warum-gerade-hier {
+    font-size: var(--font-size-13xl);
+  }
+  .link-frame {
+    padding-bottom: var(--padding-45xl);
+    box-sizing: border-box;
+  }
+  .deine-bewerbung,
+  .studienstart {
+    font-size: var(--font-size-13xl);
+  }
+  .logo-frame1 {
+    gap: 31px 0;
+    min-width: 100%;
+  }
+  .zulassungsvoraussetzungen {
+    font-size: var(--font-size-13xl);
+  }
+  .contact-info-frame1 {
+    min-width: 100%;
+  }
+  .rectangle-container {
+    gap: 31px 0;
+    padding: var(--padding-40xl) var(--padding-61xl) var(--padding-39xl);
+    box-sizing: border-box;
+  }
+  .frame-section {
+    padding-bottom: var(--padding-67xl);
+    box-sizing: border-box;
+  }
+  .mobile-systeme,
+  .mobile-systeme1 {
+    flex-wrap: wrap;
+  }
+  .fakultt-parent,
+  .mobile-systeme-parent {
+    min-width: 100%;
+  }
+  .frame-parent3 {
+    gap: 41px 0;
+    padding-bottom: var(--padding-53xl);
+    box-sizing: border-box;
+  }
+  .furtwangen-location-frame {
+    padding-left: var(--padding-83xl);
+    padding-right: var(--padding-84xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .master-design-interaktiver {
+    font-size: var(--font-size-8xl);
+  }
+  .frame-parent2 {
+    gap: 39px 0;
+  }
+  .ki-webdesign-2-inner {
+    padding-bottom: var(--padding-26xl);
+    box-sizing: border-box;
+  }
+  .entdecke-eine-welt {
+    font-size: var(--font-size-5xl);
+  }
+  .living-quarters-frame {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .deine-reise-durch,
+  .projekte,
+  .warum-gerade-hier {
+    font-size: var(--font-size-5xl);
+  }
+  .ki-webdesign-2-child {
+    padding-bottom: var(--padding-45xl);
+    box-sizing: border-box;
+  }
+  .deine-bewerbung,
+  .fr-wen-ist,
+  .studienstart,
+  .zulassungsvoraussetzungen {
+    font-size: var(--font-size-5xl);
+  }
+  .x-twitter {
+    padding-bottom: var(--padding-35xl);
+    box-sizing: border-box;
+  }
+  .noch-offene-fragen {
+    font-size: var(--font-size-base);
+  }
+  .doris-braun,
+  .prof-thomas-krach {
+    font-size: var(--font-size-base);
+    line-height: 18px;
+  }
+  .background-color {
+    gap: 0 78px;
+  }
+  .rectangle-container {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .auf-einen-blick {
+    font-size: var(--font-size-xl);
+  }
+  .details-zum-studiengan,
+  .labore {
+    gap: var(--gap-68xl);
+  }
+  .faq {
+    gap: var(--gap-77xl);
+  }
+  .kontakt {
+    gap: var(--gap-76xl);
+  }
+  .fakultt {
+    gap: var(--gap-68xl);
+  }
+  .onlinebewerbung-2 {
+    gap: var(--gap-76xl);
+  }
+  .weitere-studiengnge {
+    font-size: var(--font-size-xl);
+  }
+  .medieniinformatik,
+  .mobile-systeme2 {
+    gap: var(--gap-25xl);
+  }
+  .ntzliche-links {
+    font-size: var(--font-size-xl);
+  }
+  .finanzierung {
+    gap: var(--gap-29xl);
+  }
+  .studienort-furtwangen,
+  .wohnen {
+    gap: var(--gap-29xl);
+    flex: 1;
+  }
+  .furtwangen-location-frame {
+    padding-top: var(--padding-38xl);
+    padding-bottom: var(--padding-38xl);
+    box-sizing: border-box;
+  }
+}
